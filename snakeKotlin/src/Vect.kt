@@ -1,0 +1,1 @@
+class Vect(var x: Int, var y: Int)
